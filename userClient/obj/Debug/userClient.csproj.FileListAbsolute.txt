@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\bin\Debug\userClient.exe.config
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\bin\Debug\userClient.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\bin\Debug\userClient.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Debug\userClient.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Debug\userClient.userClient.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Debug\userClient.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Debug\userClient.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Debug\userClient.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\bin\Debug\Ionic.Zip.dll

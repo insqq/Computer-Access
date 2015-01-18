@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\bin\Release\userClient.exe.config
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\bin\Release\userClient.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\bin\Release\userClient.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Release\userClient.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Release\userClient.userClient.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Release\userClient.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Release\userClient.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Release\userClient.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\userClient\obj\Release\userClient.csprojResolveAssemblyReference.cache

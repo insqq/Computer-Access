@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\bin\Debug\ComputerAccess.exe.config
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\bin\Debug\ComputerAccess.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\bin\Debug\ComputerAccess.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Debug\ComputerAccess.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Debug\ComputerAccess.myServer.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Debug\ComputerAccess.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Debug\ComputerAccess.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Debug\ComputerAccess.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Debug\ComputerAccess.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\bin\Debug\Ionic.Zip.dll

@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\bin\Release\ComputerAccess.exe.config
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\bin\Release\ComputerAccess.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\bin\Release\ComputerAccess.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Release\ComputerAccess.myServer.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Release\ComputerAccess.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Release\ComputerAccess.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Release\ComputerAccess.exe
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Release\ComputerAccess.pdb
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Release\ComputerAccess.ScreenForm.resources
+D:\Documents\Visual Studio 2012\Projects\ComputerAccess\ComputerAccess\obj\Release\ComputerAccess.csprojResolveAssemblyReference.cache
